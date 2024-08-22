@@ -29,4 +29,4 @@ To test the homebrew:
 
 Here’s a preview of the scene:
 
-![Screenshot](1.png)
+![Screenshot](1.jpg)
