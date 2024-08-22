@@ -7,6 +7,7 @@ Welcome to my first PSVita homebrew project! This homebrew features a simple 3D 
 - **Skybox:** A dynamic skybox providing the background environment for the scene.
 - **Mirror:** A reflective surface that shows the reflections of the bunny model and the skybox.
 - **Bunny Model:** A basic 3D model of a bunny, rendered with custom shaders.
+- **Directional Light:** A directional light source that illuminates the scene (the bunny and floor).
 - **App icon and banner** Icon and banner in the LiveArea on the Vita.
 
 ## Future Enhancements
